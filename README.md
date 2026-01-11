@@ -1,6 +1,7 @@
 # zsh-themes
 
 My oh my zsh themes :)
+
 **Just for self-used!**
 
 ```
